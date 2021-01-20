@@ -7,5 +7,5 @@
 #### My projects
 - [**MathBot discord Bot**](https://discord.com/oauth2/authorize?client_id=769968401594449920&permissions=182272&scope=bot)
 - [**MathBot discord Server**](https://discord.gg/TXSmRAeTC3)
-- CEO Of @MathBOTdiscord
+- CEO Of [@MathBOT](https://github.com/MathBOTdiscord/)
  ##### Other incoming, stay tuned :)
