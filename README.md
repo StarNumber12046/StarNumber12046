@@ -1,6 +1,6 @@
 ### Hi, I am StarNumber12046, a web and python developer
 
-[![StarNumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=starnumber12046a)](https://github.com/anuraghazra/github-readme-stats)
+[![StarNumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=starnumber12046)](https://github.com/anuraghazra/github-readme-stats)
 
 -
 
